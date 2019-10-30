@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55591" started-at="2019-10-23T06:12:03Z" finished-at="2019-10-23T06:12:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55591" started-at="2019-10-23T06:12:03Z" finished-at="2019-10-23T06:12:58Z">
+      <class name="mav_sel.NewTest">
+        <test-method status="PASS" signature="reportgen()[pri:0, instance:mav_sel.NewTest@11531931]" name="reportgen" is-config="true" duration-ms="245" started-at="2019-10-23T11:42:03Z" finished-at="2019-10-23T11:42:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportgen -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:mav_sel.NewTest@11531931]" name="beforeMethod" is-config="true" duration-ms="7083" started-at="2019-10-23T11:42:03Z" finished-at="2019-10-23T11:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="logintest(java.lang.String, java.lang.String)[pri:0, instance:mav_sel.NewTest@11531931]" name="logintest" duration-ms="21142" started-at="2019-10-23T11:42:10Z" data-provider="dp" finished-at="2019-10-23T11:42:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lalitha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:mav_sel.NewTest@11531931]" name="afterMethod" is-config="true" duration-ms="225" started-at="2019-10-23T11:42:31Z" finished-at="2019-10-23T11:42:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:mav_sel.NewTest@11531931]" name="beforeMethod" is-config="true" duration-ms="4556" started-at="2019-10-23T11:42:31Z" finished-at="2019-10-23T11:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="logintest(java.lang.String, java.lang.String)[pri:0, instance:mav_sel.NewTest@11531931]" name="logintest" duration-ms="20988" started-at="2019-10-23T11:42:36Z" data-provider="dp" finished-at="2019-10-23T11:42:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lalitha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:mav_sel.NewTest@11531931]" name="afterMethod" is-config="true" duration-ms="265" started-at="2019-10-23T11:42:57Z" finished-at="2019-10-23T11:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mav_sel.NewTest@11531931]" name="afterClass" is-config="true" duration-ms="1066" started-at="2019-10-23T11:42:57Z" finished-at="2019-10-23T11:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mav_sel.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
